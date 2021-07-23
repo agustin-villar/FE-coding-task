@@ -1,6 +1,6 @@
 # FE-coding-task
 
-We need a simple web application to display the current Weather in Amsterdam using the Open Weather API (http://openweathermap.org/api)
+We need a simple web application to display the current Weather in Amsterdam using the Open Weather API ([http://openweathermap.org/api](http://openweathermap.org/api){:target="_blank"})
 
 To get you started, we provide an API key from a free account on openweathermap:
 686ed6ba158ca8607a0c819472d610d4
