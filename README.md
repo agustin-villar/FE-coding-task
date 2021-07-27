@@ -1,33 +1,25 @@
 # FE-coding-task
 
-We need a simple web application to display the current Weather in Amsterdam using the Open Weather API ([http://openweathermap.org/api](http://openweathermap.org/api))
+Create a simple application to display the current Weather in "Amsterdam".
 
-To get you started, we provide an API key from a free account on openweathermap:
-686ed6ba158ca8607a0c819472d610d4
+The current Weather can be obtained from :
+- https://openweathermap.org/current
+-  API key: 686ed6ba158ca8607a0c819472d610d4
 
-The API docs can be found here: https://openweathermap.org/current
+## Inputs
 
-### Inputs
+User should be able to select the displayed unit: 
+ - Imperial 
+ - Metric
 
-User should be able to select the displayed units (Imperial or Metric system):
+## Output
 
-- Units
-  - Imperial or Metric
+- Show current Date/Time
+- show current Weather Description
+- Show current Temperature in selected unit
+- show current Wind Speed in selected unit
 
-### Output
-
-- Current Date/Time
-- Current Temperature in selected unit
-- Current Weather Description
-- Current Wind Speed in selected unit
-
-### Technical Requirements
-
-- Requirements
-  - Runs on modern browsers
-  - React
-- Flexibility on
-  - Look/Feel
-  - Libraries Used
-  - User Interface
-
+Feel free to use :
+ - Your framework of choice
+ - Any npm modules you prefer
+ - Google, stack overflow or similar
