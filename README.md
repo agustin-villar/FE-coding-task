@@ -2,8 +2,8 @@
 
 Create a simple application to display the current Weather in "Amsterdam".
 
-The current Weather can be obtained from :
-- https://openweathermap.org/current
+The current Weather can be obtained from the Open Weather API:
+- https://openweathermap.org/current#name
 -  API key: 686ed6ba158ca8607a0c819472d610d4
 
 ## Inputs
